@@ -1,9 +1,9 @@
- AdventureWorks Sales Dashboard Project
+## AdventureWorks Sales Dashboard Project
 This project features an interactive Power BI dashboard created using the AdventureWorks dataset. It provides key business insights, including sales performance, customer analysis, product trends, returns, and geographic insights. The dashboard helps users track KPIs such as sales, revenue, profit, and returns, and enables data-driven decision-making.
 
 The dashboard covers data from 2020 to 2022 and includes various graphs and charts to visualize trends and insights.
  
- Problem Statement:
+## Problem Statement:
 AdventureWorks, a global manufacturer of cycling equipment, needs an effective way to track their business performance across different regions and product lines. The management team is particularly interested in:
 
 Sales Trends: How sales have evolved over time.
@@ -12,7 +12,7 @@ Customer Insights: Understanding customer demographics and purchasing behavior.
 Return Analysis: Identifying which products have the highest return rates and why.
 Regional Performance: Comparing sales and returns across different territories.
 
-Project Objective
+## Project Objective
 This project aims to create a Power BI dashboard that provides the AdventureWorks management team with key insights into their business operations. The focus is on:
 
 Connecting and transforming raw data from CSV files.
@@ -20,7 +20,7 @@ Building a relational data model to ensure data integrity.
 Creating calculated columns and measures using DAX (Data Analysis Expressions).
 Designing an interactive dashboard that helps users explore sales, customer, and product data visually.
 
-Visualizations Used
+## Visualizations Used
 The dashboard includes various types of visualizations to display data insights effectively:
 
 Bar Charts: For comparing product performance and regional sales.
